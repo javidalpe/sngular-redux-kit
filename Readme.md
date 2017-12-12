@@ -18,11 +18,11 @@ III Principle: Changes are made with pure functions
 
 ## Simple app
 
-[Example](https://jsbin.com/varumom/edit?js,console,output)
-
-## Implementing Redux 
-
 [Example](https://jsbin.com/kawayiq/edit?js,console,output)
+
+## Implementing Redux
+
+[Example](https://jsbin.com/varumom/edit?js,console,output) 
 
 ### (Optional) Middlewares
 
