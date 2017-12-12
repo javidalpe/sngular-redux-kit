@@ -1,4 +1,4 @@
-##3 Principles
+## 3 Principles
 
 I Principle: Single source of truth
 
@@ -16,14 +16,14 @@ III Principle: Changes are made with pure functions
                
 [Example](https://jsbin.com/yifufaz/5/edit?js,console,output)
 
-##Simple app
+## Simple app
 
 [Example](https://jsbin.com/varumom/5/edit?js,console,output)
 
-##Implementing Redux 
+## Implementing Redux 
 
 [Example](https://jsbin.com/kawayiq/9/edit?js,console,output)
 
-###(Optional) Middlewares
+### (Optional) Middlewares
 
 [Example](https://jsbin.com/runuya/edit?js,console,output)
